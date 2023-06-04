@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/Yvieyra/natures-shop/issues"
   },
-  "homepage": "https://github.com/Yvieyra/natures-shop#readme"
+  "homepage": "https://github.com/Yvieyra/natures-shop#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "react-bootstrap": "^2.7.4"
+  }
 }
